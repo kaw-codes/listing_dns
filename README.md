@@ -17,7 +17,10 @@ etc.
 Les noms de domaine ne doivent pas avoir de TLD
 
 ## EXEMPLE
+
+```
 .\listing_dns.ps1 -Fichier .\domain_names.txt
+```
 
 ## API UTILISEES
 https://networkcalc.com/api/docs/ \
